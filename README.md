@@ -50,21 +50,6 @@ dictionary-app/
 
 ---
 
-## 📸 Screenshot (Example)
-*(You can add your own project screenshot here)*  
-
----
-
-## ▶️ Live Demo
-*(If you deploy using GitHub Pages, add your link here)*  
-
-Example:  
-```
-https://yourusername.github.io/dictionary-app/
-```
-
----
-
 ## 💻 Setup & Usage
 1. Clone the repository:  
    ```bash
@@ -77,6 +62,3 @@ https://yourusername.github.io/dictionary-app/
 3. Open `index.html` in your browser.  
 
 
-
-## 📜 License
-This project is licensed under the **MIT License**.
