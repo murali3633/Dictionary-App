@@ -12,7 +12,7 @@ body{
   justify-content: center;
   min-height: 100vh;
   background: #4D59FB;
-}
+} 
 ::selection{
   color: #fff;
   background: #4D59FB;
@@ -151,3 +151,4 @@ ul .content::-webkit-scrollbar{
   text-decoration: underline;
 
 }
+
