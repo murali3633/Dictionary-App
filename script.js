@@ -5,7 +5,7 @@ infoText = wrapper.querySelector(".info-text"),
 synonyms = wrapper.querySelector(".synonyms .list"),
 removeIcon = wrapper.querySelector(".search span");
 let audio;
-   
+
 function data(result, word){
     if(result.title){
         infoText.innerHTML = `Can't find the meaning of <span>"${word}"</span>. Please, try to search for another word.`;
@@ -70,6 +70,7 @@ removeIcon.addEventListener("click", ()=>{
     infoText.style.color = "#9A9A9A";
     infoText.innerHTML = "Type any existing word and press enter to get meaning, example, synonyms, etc.";
 });
+
 
 
 
