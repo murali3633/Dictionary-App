@@ -4,7 +4,7 @@ volume = wrapper.querySelector(".word i"),
 infoText = wrapper.querySelector(".info-text"),
 synonyms = wrapper.querySelector(".synonyms .list"),
 removeIcon = wrapper.querySelector(".search span");
-let audio;
+let audio; 
 
 function data(result, word){
     if(result.title){
