@@ -5,7 +5,7 @@ It uses the **Free Dictionary API** to fetch meanings, examples, pronunciations,
 
 ---
 
-## 🚀 Features
+## 🚀 Features 
 - 🔍 Search for any English word  
 - 📖 Get **meaning** and **example sentence**  
 - 🗣️ Listen to the word pronunciation with **audio support**  
