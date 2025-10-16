@@ -3,7 +3,7 @@ searchInput = wrapper.querySelector("input"),
 volume = wrapper.querySelector(".word i"),
 infoText = wrapper.querySelector(".info-text"), 
 synonyms = wrapper.querySelector(".synonyms .list"),
-removeIcon = wrapper.querySelector(".search span");
+removeIcon = wrapper.querySelector(".search span"); 
 let audio;
 function data(result, word){ 
     if(result.title){
@@ -69,6 +69,7 @@ removeIcon.addEventListener("click", ()=>{
     infoText.style.color = "#9A9A9A";
     infoText.innerHTML = "Type any existing word and press enter to get meaning, example, synonyms, etc.";
 });
+
 
 
 
