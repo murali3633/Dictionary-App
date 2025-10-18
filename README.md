@@ -2,7 +2,6 @@
 
 A simple and interactive **English Dictionary App** built using **HTML, CSS, and JavaScript**.  
 It uses the **Free Dictionary API** to fetch meanings, examples, pronunciations, and synonyms of words.
-
 ---
 
 ## 🚀 Features 
