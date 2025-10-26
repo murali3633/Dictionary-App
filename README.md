@@ -9,7 +9,7 @@ It uses the **Free Dictionary API** to fetch meanings, examples, pronunciations,
 - 🗣️ Listen to the word pronunciation with **audio support**  
 - 📝 View a list of **synonyms** (clickable for instant search)  
 - ❌ Clear search with one click  
-- ⚡ Responsive and clean UI design  
+- ⚡ Responsive and clean UI design
 
 ---
 
