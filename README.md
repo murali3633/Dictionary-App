@@ -3,7 +3,7 @@
 A simple and interactive **English Dictionary App** built using **HTML, CSS, and JavaScript**.  
 It uses the **Free Dictionary API** to fetch meanings, examples, pronunciations, and synonyms of words.
 --- 
-## 🚀 Features 
+## 🚀 Features
 - 🔍 Search for any English word  
 - 📖 Get **meaning** and **example sentence**  
 - 🗣️ Listen to the word pronunciation with **audio support**  
