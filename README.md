@@ -4,7 +4,7 @@ A simple and interactive **English Dictionary App** built using **HTML, CSS, and
 It uses the **Free Dictionary API** to fetch meanings, examples, pronunciations, and synonyms of words.
 --- 
 ## 🚀 Features
-- 🔍 Search for any English word  
+- 🔍 Search for any English word 
 - 📖 Get **meaning** and **example sentence**  
 - 🗣️ Listen to the word pronunciation with **audio support**  
 - 📝 View a list of **synonyms** (clickable for instant search)  
